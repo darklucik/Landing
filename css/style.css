@@ -483,6 +483,9 @@ body {
     display: block;
     margin-left: 0px;
   }
+  .last {
+    display: none;
+  }
 }
 .btns a {
     text-decoration: none;
@@ -513,4 +516,10 @@ body {
 }
 .card-1 {
     width: 300px;
+}
+.flex_div {
+    display: flex;
+}
+.picp {
+    width: 320px;
 }
