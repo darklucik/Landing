@@ -486,6 +486,7 @@ body {
   .last {
     display: none;
   }
+
 }
 .btns a {
     text-decoration: none;
@@ -522,4 +523,7 @@ body {
 }
 .picp {
     width: 320px;
+}
+.flex_first {
+    display: flex;
 }
